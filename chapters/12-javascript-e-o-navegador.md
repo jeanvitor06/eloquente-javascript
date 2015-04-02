@@ -7,7 +7,7 @@
 > - Douglas Crockford, The JavaScript Programming Language (video lecture)
 > - Douglas Crockford, The JavaScript Programming Language (palestra)
 
-The next part of this book will talk about web browsers. Without web browsers, there would be no JavaScript. And even if there were, no one would ever have paid any attention to it.
+xt part of this book will talk about web browsers. Without web browsers, there would be no JavaScript. And even if there were, no one would ever have paid any attention to it.
 
 A próxima parte deste livro vai falar sobre navegadores web. Sem os navegadores, não existiria JavaScript. E mesmo se existisse, ninguém daria atenção a ele.
 
